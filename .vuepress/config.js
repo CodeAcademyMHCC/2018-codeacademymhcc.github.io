@@ -10,7 +10,7 @@ module.exports = {
         { text: 'Treehouse', link: 'http://teamtreehouse.com/' },
         { text: 'Slack', link: 'https://mhcccodeacademy2018.slack.com/' },        
         { text: 'Logs', link: 'https://codeacademymhcc.github.io/learning-logs/' },
-        { text: 'GitHub', link: 'https://github.com/CodeAcademyMHCC/codeacademymhcc.github.io' },        
+        { text: 'GitHub', link: 'https://github.com/CodeAcademyMHCC/' },        
       ],
       sidebar: [
         ['current','★ This Week'],                
