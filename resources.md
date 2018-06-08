@@ -42,6 +42,7 @@ Tech meetups, talks and other events are good places to learn about specific tec
 ## Tools
 
 - [Bootcamps.in](http://www.bootcamps.in/) — This website compares programming bootcamps across the country. A good resource if you’re not geographically bound.
+- [Emmet.io](http://emmet.io/) — The online code editor we use at [Codeanywhere](https://codeanywhere.com/) uses a helpful plugin that allows us to creates HTML on-the-fly using CSS selector syntax shorthand. For example, typying `html:5` and then hitting the **tab** key creates a basic HTML page structure for use to start using.
 
 ## Other Programs
 

@@ -1,3 +1,4 @@
+# Week 6
 *June 5th & 7th, 2018*
 
 At this point in the course all of the remaining Treehouse tracks are available for students to work on: 
@@ -12,6 +13,5 @@ When you are **finished** with the Learn HTML track, you can proceed to move on 
 Getting caught up and on track will be our primariy focus this week. Remember to make contributions to your ongoing [GitHub Study Notes](/projects/github-study-notes.html).
 
 We also introduced [hangman](/)
-
 
 

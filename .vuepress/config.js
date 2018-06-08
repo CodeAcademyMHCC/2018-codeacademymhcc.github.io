@@ -35,7 +35,8 @@ module.exports = {
           title: 'Class Projects',
           collapsable: true,
           children: [
-            ['projects/github-study-notes',  'GitHub Study Notes']
+            ['projects/github-study-notes',  'GitHub Study Notes'],
+            ['projects/hangman',  'Hangman']
           ]
         },
         
