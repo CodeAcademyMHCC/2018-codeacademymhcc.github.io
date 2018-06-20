@@ -1,5 +1,5 @@
 # Week 2
-*May 8 & 10th, 2018*
+*May 8th & 10th, 2018*
 
 ## Continuing Tracks
 

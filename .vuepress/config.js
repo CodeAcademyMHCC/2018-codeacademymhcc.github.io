@@ -24,11 +24,9 @@ module.exports = {
             ['syllabus/week3', "Week 3"],
             ['syllabus/week4', "Week 4"],
             ['syllabus/week5', "Week 5"],
-            // ['syllabus/week6', "Week 6"],
-            // ['syllabus/week7', "Week 7"],
-            // ['syllabus/week8', "Week 8"],
+            ['syllabus/week6', "Week 6"],
+            ['syllabus/week7', "Week 7-8"],            
             // ['syllabus/week9', "Week 9"],
-            // ['syllabus/week10', "Week 10"],
           ]
         },
         {
@@ -36,7 +34,8 @@ module.exports = {
           collapsable: true,
           children: [
             ['projects/github-study-notes',  'GitHub Study Notes'],
-            ['projects/hangman',  'Hangman']
+            ['projects/hangman',  'Hangman'],
+            ['projects/instant-art-gallery',  'Instant Art Gallery']
           ]
         },
         
